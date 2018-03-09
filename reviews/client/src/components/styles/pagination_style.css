@@ -1,0 +1,49 @@
+.container {
+  width: 629px;
+  margin-right: 10px;
+  height: 30px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.text {
+  padding-right: 10px;
+  font-size: 14px;
+  line-height: 30px;
+  float: left;
+}
+
+.pageContainer {
+  float: right;
+  padding-left: 10px;
+  color: #0073bb;
+}
+
+.nextPage, .previousPage, .page {
+  float: left;
+  padding: 0 10px;
+  font-size: 14px;
+  line-height: 30px;
+  cursor: pointer;
+}
+
+.nextPage {
+  padding-right: 0px;
+}
+
+.currentPage {
+  float: left;
+  padding: 0 10px;
+  font-size: 14px;
+  line-height: 30px;
+  cursor: pointer;
+  border-bottom: 3px solid #d32323;
+}
+
+.nextPage:hover, .previousPage:hover, .page:hover {
+  text-decoration: underline;
+}
+
+.icons {
+  padding: 0 10px;
+  font-size: 1.25em;
+}

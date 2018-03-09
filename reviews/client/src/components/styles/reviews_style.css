@@ -1,0 +1,32 @@
+.feed {
+  width: 629px;
+  float: left;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  margin-left: 15px;
+  padding-right: 30px;
+  position: relative;
+}
+
+.title {
+  color: #D32323;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.businessName {
+  font-size: 21px;
+}
+
+.titleContainer {
+  padding-bottom: 8px;
+}
+
+.transparentFeed {
+  opacity: 0.5;
+}
+
+.searchText {
+  font-weight: bold;
+  background: gray;
+}

@@ -1,0 +1,53 @@
+.container {
+  float: left;
+  font-size: 14px;
+  height: 30px;
+  color: #666;
+  margin-right: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+.label {
+  float: left;
+  line-height: 30px;
+  padding-right: 4px;
+}
+
+.selected {
+  float: left;
+  line-height: 30px;
+  font-weight: bold;
+} 
+
+.hideMenu {
+  display: none;
+}
+
+.showMenu {
+  display: block;
+  position: absolute;
+  background: white;
+  width: 100%;
+  box-sizing: border-box;
+  left: 0%;
+  border-radius: 3px;
+  border: 1px solid #e6e6e6;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.highlight {
+  background-color: #666;
+  padding: 0 10px;
+  color: white;
+}
+
+.noHighlight {
+  padding: 0 10px;
+}
+
+.icon {
+  height: 30px;
+  line-height: 30px;
+  font-size: 14px;
+}

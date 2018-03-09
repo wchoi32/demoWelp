@@ -1,0 +1,38 @@
+.bizPic {
+    width: 70px;
+    height: 70px;
+    border-radius: 4px;
+    float: left;
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: orange;
+    font-size: 10px;
+  }
+
+.bizTitle {
+  border-color: red;
+  font-size: 18px;
+  color: #0073bb
+}
+
+.ad {
+  margin-right: 5px;
+  padding: 2px;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 12px;
+  background-color: #ebac2c
+}
+
+.metatag {
+  font-size: 14px;
+  color: #999 !important;
+}
+
+.rating {
+  width: 102px;
+  height: 40px;
+  color: #333;
+  font-size: 14px
+}
